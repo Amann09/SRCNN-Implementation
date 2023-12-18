@@ -3,6 +3,8 @@
 A deep Convolutional Neural Network that learns end-to-end mapping of low resolution to high resolution images.
 This project is an implementation of the SRCNN [research paper](https://arxiv.org/abs/1501.00092) by Chao Dong, Chen Change Loy, Kaiming He, Xiaoou Tang.
 
+**Data:** Images used in the project is taken from DIV2K dataset that can be found [here](https://www.kaggle.com/datasets/soumikrakshit/div2k-high-resolution-images).
+
 ## Output
 
 ![old_man_srcnn](https://github.com/Amann09/SRCNN-Implementation/assets/100956289/fe999864-3bea-4a43-809b-39d0ddbf6de3)
