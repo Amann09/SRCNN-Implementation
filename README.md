@@ -24,6 +24,6 @@ This project is an implementation of the SRCNN [research paper](https://arxiv.or
 | `SSIM`    | 0.928           | 0.940  |
 
 ### Performance Evaluation Metrics
-PSNR: Peak to Signal Noise Ratio
-MSE: Mean Squared Error
+PSNR: Peak to Signal Noise Ratio \
+MSE: Mean Squared Error \
 SSIM: Structural Similarity
